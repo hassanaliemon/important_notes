@@ -352,3 +352,6 @@ garbeg collection
 if memory full then from where to get memory
 itertools
 buffers
+module's global namespace 
+map, filter, lambda i npython
+how python executes, .pyc
